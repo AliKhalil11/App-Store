@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513816233233",
+    "project_id": "store-app-bfb84",
+    "storage_bucket": "store-app-bfb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513816233233:android:bac6406d6fd9312c9278b0",
+        "android_client_info": {
+          "package_name": "com.example.app_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1j5Pp60BjGgTXZpQDMecmtTBbXhVeT_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
